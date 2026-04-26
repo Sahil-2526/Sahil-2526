@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/suSEy99kOj/" target="_blank">
+  <a href="https://leetcode.com/u/Sahil-2526/" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-SOLVED_PROBLEMS-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=101010" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
