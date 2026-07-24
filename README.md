@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=300&section=header&text=SAHIL&fontSize=90&fontAlignY=38&animation=fadeIn" width="100%" />
 
-<div style="margin-top:-95px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=60&lines=%24+whoami;Sahil;CSE+Student+%7C+IIIT+Manipur;Machine+Learning+Engineer" />
-</div>
-
 </div>
 
 <div align="center">
