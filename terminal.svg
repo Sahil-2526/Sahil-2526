@@ -1,0 +1,60 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style>
+      .title {
+        font-family: "JetBrains Mono", "Fira Code", monospace;
+        font-size: 18px;
+        fill: #C9D1D9;
+      }
+
+      .cmd {
+        font-family: "JetBrains Mono", "Fira Code", monospace;
+        font-size: 21px;
+        font-weight: 600;
+        fill: #00FF66;
+      }
+
+      .out {
+        font-family: "JetBrains Mono", "Fira Code", monospace;
+        font-size: 21px;
+        fill: #FFFFFF;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="420" rx="18" fill="#0D1117"/>
+
+  <!-- Title Bar -->
+  <rect width="900" height="45" rx="18" fill="#161B22"/>
+  <rect y="25" width="900" height="20" fill="#161B22"/>
+
+  <!-- Window Buttons -->
+  <circle cx="28" cy="22" r="7" fill="#FF5F56"/>
+  <circle cx="52" cy="22" r="7" fill="#FFBD2E"/>
+  <circle cx="76" cy="22" r="7" fill="#27C93F"/>
+
+  <!-- Title -->
+  <text x="450" y="28" text-anchor="middle" class="title">
+    sahil@github:~/profile
+  </text>
+
+  <!-- Content -->
+
+  <text x="40" y="80" class="cmd">$ name</text>
+  <text x="40" y="110" class="out">Sahil</text>
+
+  <text x="40" y="155" class="cmd">$ role</text>
+  <text x="40" y="185" class="out">Machine Learning Engineer</text>
+
+  <text x="40" y="230" class="cmd">$ college</text>
+  <text x="40" y="260" class="out">IIIT Manipur</text>
+
+  <text x="40" y="305" class="cmd">$ skills</text>
+  <text x="40" y="335" class="out">C++   Python  R   ML   DSA</text>
+
+  <text x="40" y="380" class="cmd">$ status</text>
+  <text x="170" y="380" class="out">Always Learning</text>
+
+</svg>
