@@ -38,6 +38,33 @@
 
 <br/>
 
+```text
+    
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡀
+│  OS         : Windows 11                                    │⠀⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⢰⣿⣷⡀⠀
+│  Host       : IIIT Manipur                                  │⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣷⣀⣀⣀⣀⠀⠀⠀⠀⣀⣀⣀⣀⣠⣤⡤ 
+│  Kernel     : B.Tech CSE (2024 - 2028)                      │⠀⠀⠀  ⠀⠀⠀⠀⠀⢀⣀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋
+│  Uptime     : 20 years                                      │⠀⠀⠀⠀⠀  ⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠀
+│  Hobbies    : Basketball, Sketching                         │⠀⠀⠀⠀⠀⠀  ⠀⠀⢰⡇⣿⣿⣿⣿⣿⣿⡿⠟⣻⣿⣿⣿⣿⣿⣥⣄⣀⣀⣀⡀   
+│  Contact    : sahil.26.02.2007@gmail.com                    │⠀  ⢀⣴⣶⣶⣦⣤⣄⠀⢷⣼⣿⣿⡿⠻⠁⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀
+│                                                             │  ⢀⣿⡿⢻⣿⣿⠿⠟⠀⠀⠟⠛⢿⠿⠿⠷⡶⠚⢻⣿⣿⣿⣿⣿⣋⣁⠀
+╰─────────────────────────────────────────────────────────────╯  ⠹⡟⠀⠸⡿⠁⠀⠀⠀⠀⠈⢄⠈⠀⠀⠀⠁⢀⣾⣿⣿⣿⣿⠿⠋⠁⠀
+                                                              ⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠑⠶⣤⣤⣶⣟⣿⣻⣿⣿⣿⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                               ⢀⣴⣿⣿⣿⣿⣿⡾⣿⣿⡣⠀⠀⠀⠀                       ⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                              ⠀⠀⠀⣿⠟⢻⣿⣿⢿⣿⣿⡝⠻⢷⣄⠀⠀⠀⠀                       ⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                              ⠀⠃⠀⢸⡿⠁⠀⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀                        
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                               ⠀⠀⠘⠁⠀⠀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀                         ⠀
+```
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="50" style="object-fit: cover; opacity: 0.5;"/>
+</div>
+
+<br/>
+
 <h1 align="center"> ABOUT ME</h1>
 <p align="center">
   <img src="terminal.svg" width="900">
@@ -75,6 +102,14 @@
 </div>
 
 <br/>
+<h1 align="center">📊 GITHUB STATS</h1>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahil-2526&show_icons=true&theme=tokyonight"
+    width="450"
+  />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,0&height=150&section=footer&animation=fadeIn"/>
