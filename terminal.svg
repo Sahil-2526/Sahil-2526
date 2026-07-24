@@ -37,7 +37,7 @@
 
   <!-- Title -->
   <text x="450" y="28" text-anchor="middle" class="title">
-    sahil@github:~/profile
+    ssahil@iiitmanipur:~/github-profile
   </text>
 
     <!-- Content -->
@@ -45,27 +45,27 @@
   <text x="40" y="80" class="cmd">$ whoami</text>
   <text x="40" y="110" class="out">Sahil</text>
 
-  <text x="40" y="155" class="cmd">$ role</text>
+  <text x="40" y="155" class="cmd">$ cat role.txt</text>
   <text x="40" y="185" class="out">Machine Learning Engineer</text>
 
-  <text x="40" y="230" class="cmd">$ education</text>
+  <text x="40" y="230" class="cmd">$ cat education.txt</text>
   <text x="40" y="260" class="out">B.Tech CSE @ IIIT Manipur (2024-2028)</text>
 
-  <text x="40" y="305" class="cmd">$ languages</text>
-  <text x="40" y="335" class="out">C++, Python, R, JavaScript</text>
+  <text x="40" y="305" class="cmd">$ ls languages</text>
+  <text x="40" y="335" class="out">C++   Python   R   JavaScript</text>
 
-  <text x="40" y="380" class="cmd">$ technologies</text>
-  <text x="40" y="410" class="out">React, TailwindCSS, Git, GitHub, scikit-learn</text>
+  <text x="40" y="380" class="cmd">$ ls technologies</text>
+  <text x="40" y="410" class="out">React   TailwindCSS   Git   GitHub   scikit-learn</text>
 
-  <text x="40" y="455" class="cmd">$ interests</text>
+  <text x="40" y="455" class="cmd">$ cat interests.txt</text>
   <text x="40" y="485" class="out">Machine Learning</text>
   <text x="40" y="515" class="out">Deep Learning</text>
   <text x="40" y="545" class="out">Artificial Intelligence</text>
 
-  <text x="40" y="590" class="cmd">$ skills</text>
-  <text x="40" y="620" class="out">DSA, ML, Problem Solving</text>
+  <text x="40" y="590" class="cmd">$ cat skills.txt</text>
+  <text x="40" y="620" class="out">DSA   ML   Problem Solving</text>
 
-  <text x="40" y="665" class="cmd">$ status</text>
+  <text x="40" y="665" class="cmd">$ echo $STATUS</text>
   <text x="40" y="695" class="out">Always Learning </text>
 
 </svg>
