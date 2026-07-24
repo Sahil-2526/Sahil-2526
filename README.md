@@ -39,37 +39,9 @@
 <br/>
 
 <h1 align="center"> ABOUT ME</h1>
-
-```text
-┌──────────────────────────────────────────────────────┐ 
-│  sahil@github:~/profile                              │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  $ whoami                                            │
-│  Sahil                                               │
-│                                                      │
-│  $ role                                              │
-│  Machine Learning Engineer                           │
-│                                                      │
-│  $ education                                         │
-│  B.Tech CSE @ IIIT Manipur                           │
-│                                                      │
-│  $ languages                                         │
-│  C++  Python  JavaScript                             │
-│                                                      │
-│  $ technologies                                      │
-│  React  TailwindCSS  Git                             │
-│                                                      │
-│  $ interests                                         │
-│  Machine Learning                                    │
-│  Deep Learning                                       │
-│  Artificial Intelligence                             │
-│                                                      │
-│  $ status                                            │
-│  Building. Learning. Growing. 🚀                     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="terminal.svg" width="900">
+</p>
 <br/>
 
 <div align="center">
